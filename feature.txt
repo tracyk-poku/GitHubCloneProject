@@ -1,1 +1,1 @@
- This is a new file for a new feature.
+ This is a new feature.
